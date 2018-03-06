@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Pi Sigma Chi Fraternity"
-theme = "theme"
+theme = "strata"
 # Enable Disqus commenting
 # disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
